@@ -1,0 +1,18 @@
+<svg width="880" height="4" viewBox="0 0 880 4" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="880" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E293B" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#1E293B" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0" y1="0" x2="260" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#22C55E"/>
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="1" width="880" height="2" rx="1" fill="url(#base)"/>
+  <rect x="-260" y="0" width="260" height="4" rx="2" fill="url(#pulse)">
+    <animate attributeName="x" values="-260;880" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>

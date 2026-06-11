@@ -44,7 +44,7 @@
   </defs>
 
   <!-- Card background -->
-  <rect x="1" y="1" width="878" height="218" rx="16" fill="#0F172A" stroke="#1E293B" stroke-width="2"/>
+  <rect x="1" y="1" width="878" height="218" rx="16" fill="#050810" stroke="#141C2E" stroke-width="2"/>
 
   <g clip-path="url(#cardClip)">
     <!-- Grid -->
@@ -63,8 +63,8 @@
 
     <!-- Orbit system (right side) -->
     <g>
-      <circle cx="740" cy="110" r="58" stroke="#1E293B" stroke-width="1.5" fill="none"/>
-      <circle cx="740" cy="110" r="86" stroke="#1E293B" stroke-width="1.5" stroke-dasharray="4 6" fill="none"/>
+      <circle cx="740" cy="110" r="58" stroke="#141C2E" stroke-width="1.5" fill="none"/>
+      <circle cx="740" cy="110" r="86" stroke="#141C2E" stroke-width="1.5" stroke-dasharray="4 6" fill="none"/>
       <!-- Center node -->
       <circle cx="740" cy="110" r="7" fill="#22C55E" filter="url(#softGlow)">
         <animate attributeName="r" values="7;9;7" dur="2.4s" repeatCount="indefinite"/>

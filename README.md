@@ -9,9 +9,9 @@
 </div>
 
 <div align="center">
-  <a href="https://reechai.com"><img src="https://img.shields.io/badge/Website-reechai.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Lima,_Peru_(UTC--5)-38BDF8?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0F172A" alt="Location" />
-  <img src="https://img.shields.io/badge/Languages-EN_·_ES-A78BFA?style=flat-square&logo=googletranslate&logoColor=white&labelColor=0F172A" alt="Spoken languages" />
+  <a href="https://reechai.com"><img src="https://img.shields.io/badge/Website-reechai.com-22C55E?style=flat-square&logo=googlechrome&logoColor=white&labelColor=050810" alt="Website" /></a>
+  <img src="https://img.shields.io/badge/Based_in-Lima,_Peru_(UTC--5)-38BDF8?style=flat-square&logo=googlemaps&logoColor=white&labelColor=050810" alt="Location" />
+  <img src="https://img.shields.io/badge/Languages-EN_·_ES-A78BFA?style=flat-square&logo=googletranslate&logoColor=white&labelColor=050810" alt="Spoken languages" />
   <img src="https://komarev.com/ghpvc/?username=yombell-sisniegas&style=flat-square&color=22c55e&label=Profile+Views" alt="Profile views" />
 </div>
 
@@ -46,20 +46,20 @@
 ## `~/github-analytics`
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yombell-sisniegas&show_icons=true&include_all_commits=true&count_private=true&bg_color=0F172A&title_color=22C55E&text_color=94A3B8&icon_color=38BDF8&border_color=1E293B&border_radius=12&rank_icon=github" height="180" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=yombell-sisniegas&background=0F172A&border=1E293B&stroke=1E293B&ring=22C55E&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=94A3B8&dates=64748B&border_radius=12" height="180" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yombell-sisniegas&show_icons=true&include_all_commits=true&count_private=true&bg_color=050810&title_color=22C55E&text_color=94A3B8&icon_color=38BDF8&border_color=141C2E&border_radius=12&rank_icon=github" height="180" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=yombell-sisniegas&background=050810&border=141C2E&stroke=141C2E&ring=22C55E&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22C55E&sideLabels=94A3B8&dates=64748B&border_radius=12" height="180" alt="Contribution streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yombell-sisniegas&layout=compact&langs_count=8&bg_color=0F172A&title_color=22C55E&text_color=94A3B8&border_color=1E293B&border_radius=12&hide=html,css,scss" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yombell-sisniegas&layout=compact&langs_count=8&bg_color=050810&title_color=22C55E&text_color=94A3B8&border_color=141C2E&border_radius=12&hide=html,css,scss" alt="Top languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yombell-sisniegas&bg_color=0F172A&color=94A3B8&title_color=22C55E&line=22C55E&point=38BDF8&area=true&area_color=22C55E&hide_border=false&radius=12" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yombell-sisniegas&bg_color=050810&color=94A3B8&title_color=22C55E&line=22C55E&point=38BDF8&area=true&area_color=22C55E&hide_border=false&radius=12" width="100%" alt="Contribution activity graph" />
 </div>
 
 <br/>
@@ -85,7 +85,7 @@
         and realtime products built on TypeScript, Next.js, Supabase and Google Cloud.
       </p>
       <p align="center">
-        <a href="https://reechai.com"><img src="https://img.shields.io/badge/Visit-reechai.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0F172A" alt="Visit reechai.com" /></a>
+        <a href="https://reechai.com"><img src="https://img.shields.io/badge/Visit-reechai.com-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=050810" alt="Visit reechai.com" /></a>
       </p>
     </td>
   </tr>
@@ -96,9 +96,9 @@
 ## `~/connect`
 
 <div align="center">
-  <a href="https://reechai.com"><img src="https://img.shields.io/badge/Website-reechai.com-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
-  <a href="mailto:yombell@reechai.com"><img src="https://img.shields.io/badge/Email-yombell%40reechai.com-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
-  <a href="https://github.com/yombell-sisniegas"><img src="https://img.shields.io/badge/GitHub-yombell--sisniegas-0F172A?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
+  <a href="https://reechai.com"><img src="https://img.shields.io/badge/Website-reechai.com-050810?style=for-the-badge&logo=googlechrome&logoColor=22C55E" alt="Website" /></a>
+  <a href="mailto:yombell@reechai.com"><img src="https://img.shields.io/badge/Email-yombell%40reechai.com-050810?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" /></a>
+  <a href="https://github.com/yombell-sisniegas"><img src="https://img.shields.io/badge/GitHub-yombell--sisniegas-050810?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" /></a>
 </div>
 
 <br/>
@@ -107,4 +107,4 @@
   <sub><code>// designed & hand-coded — animated SVGs, zero templates</code></sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:166534,100:22C55E&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050810,50:166534,100:22C55E&height=120&section=footer" width="100%" alt="" />
